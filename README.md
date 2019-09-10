@@ -1,6 +1,6 @@
-#Express Boilerplate
+# Express Boilerplate
 This is a boilerpolate to start new Express/Node projects
-##Set Up
+## Set Up
 Complete the following steps to start a new project (NEW-PROJECT_NAME):
 1. Clone this repository to your local machine `git clone BOILERPLATE-URL NEW-PROJECTS_NAME`
 2. `cd` into the cloned repository
@@ -13,7 +13,7 @@ Complete the following steps to start a new project (NEW-PROJECT_NAME):
 Start the application `npm start`
 Start nodemon for the application `npm run dev`
 Runt he tests `npm test`
-##Deploying
+## Deploying
 When your new project is ready for deployment, add a new Heroku application with `heroku create`. This will make a new got remote called "heroku" and then you can `npm run deploy` which will push to this remote's master branch.
-##Readme
+## Readme
 Once this project is deployed, you should update this README file 
